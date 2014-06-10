@@ -1,0 +1,3300 @@
+{    
+"article": {
+      "@id": "038420",
+      "@lexile": 1020,
+      "@product": "wborc",
+      "@revised-date": "01/14/2014",
+      "@status": "draft",
+      "exist-serialize": null,
+      "title": {
+        "$": "Australia"
+      },
+      "meta": [
+        {
+"@content": "English",
+"@name": "language"
+        },
+        {
+"@content": "World Book Student",
+"@name": "publication"
+        },
+        {
+"@content": "World Book Advanced",
+"@name": "publication"
+        },
+        {
+"@content": "World Book Online Info Finder",
+"@name": "publication"
+        },
+        {
+"@content": "World Book Online Reference Center",
+"@name": "publication"
+        },
+        {
+"@content": "World Book Academic",
+"@name": "publication"
+        },
+        {
+"@content": 2014,
+"@name": "pub-details"
+        },
+        {
+"@content": "World Book, Inc.",
+"@name": "publisher"
+        },
+        {
+"@content": "xml",
+"@name": "doctype"
+        },
+        {
+"@content": "Reference",
+"@name": "genre"
+        },
+        {
+"@content": "http://www.worldbookonline.com/student/article?id=ar038420",
+"@name": "link"
+        },
+        {
+"@content": "http://www.worldbookonline.com/advanced/article?id=ar038420",
+"@name": "link"
+        },
+        {
+"@content": "http://www.worldbookonline.com/pl/infofinder/article?id=ar038420",
+"@name": "link"
+        },
+        {
+"@content": "http://www.worldbookonline.com/pl/referencecenter/article?id=ar038420",
+"@name": "link"
+        },
+        {
+"@content": "http://www.worldbookonline.com/academic/article?id=ar038420",
+"@name": "link"
+        }
+      ],
+      "abstract": {
+        "p": [
+{
+  "b": {
+    "$": "Australia"
+  }
+},
+{
+  "$": " is the only country that is also a continent. In area, Australia ranks as the sixth largest country and smallest continent. It lies between the South Pacific Ocean and the Indian Ocean, about 7,000 miles (11,000 kilometers) southwest of North America and about 2,000 miles (3,200 kilometers) southeast of mainland Asia. Australia is often referred to as being \"down under\" because it lies entirely within the Southern Hemisphere. The name Australia comes from the Latin word australis, which means southern. The official name of the country is the Commonwealth of Australia. Australia has many different kinds of environment and..."
+}
+        ]
+      },
+      "contributor": {
+        "@contributor-refid": "cbr4450",
+        "$": "David Carter"
+      },
+      "body": {
+        "first-para": {
+"para-head": {
+  "$": "Australia"
+},
+"p": [
+  {
+    "$": " is the only"
+  }, 
+  {
+    "$": " country"
+  }, 
+  {
+    "$": " that is also a continent. In area, Australia ranks as the sixth largest country andsmallest continent. It lies between the South Pacific Ocean and the Indian Ocean,about 7,000 miles (11,000 kilometers) southwest of North America and about 2,000miles (3,200 kilometers) southeast of mainland Asia. Australia is often referred toas being \"down under\" because it lies entirely within the Southern Hemisphere. Thename "
+  },
+  {
+    "i": {
+      "$": "Australia"
+    }
+  },
+  {
+    "$": " comes from the Latin word "
+  },
+  {
+    "i": {
+      "$": "australis,"
+    }
+  },
+  {
+    "$": " which means    "
+  },
+  {
+    "i": {
+      "$": "southern."
+    }
+  },
+  {
+    "$": " The official name of the country is the Commonwealth ofAustralia."
+  }
+]
+        },
+        "p": [
+{
+  "media": {
+    "@id": "mp000266",
+    "@rights": "licensed",
+    "@type": "map-atlas",
+    "title": {
+      "$": "Australia (country)"
+    }
+  }
+},
+[
+  {
+    "$": "Australia has many different kinds of environment and climates, from tropical in the north to "
+  },
+  {
+    "i": {
+      "$": "temperate"
+    }
+  },
+  {
+    "$": " (with warm summers and cool winters) in the south. The huge interior of Australia is mostly desert or dry grassland and has few settlements. Australia is the second driest continent. Only Antarctica gets less precipitation than Australia. However, Australia has numerous areas with a pleasant climate and enough rainfall and fertile soil for agriculture."
+  }
+],
+{
+  "media": {
+    "@id": "pc313995",
+    "@rights": "licensed",
+    "@type": "photo",
+    "title": {
+      "$": "Australian outback"
+    }
+  }
+},
+{
+  "$": "The southeastern coastal region has the most people by far. Australia's two largest cities—Sydney and Melbourne—lie in this region. Canberra, the national capital, lies only a short distance inland. The country as a whole averages only about 6.5 people per square mile (2.5 people per square kilometer). Most Australians live in urban or suburban areas in the major cities. Australia is famous for its vast open spaces, bright sunshine, and unusual wildlife. Kangaroos, koalas, platypuses, and wombats are only a few of the many unusual animals that live in Australia."
+},
+{
+  "media": {
+    "@id": "lr002868",
+    "@rights": "licensed",
+    "@type": "illus",
+    "title": {
+      "$": "Australia flag and coat of arms"
+    }
+  }
+},
+{
+  "$": "The country was once a group of British colonies, and most Australian people have British ancestry. When people first moved to Australia from Great Britain (now the United Kingdom), they took many British customs with them. Australia's government and legal system are based on those of the United Kingdom. Since the 1950's, immigration from many different countries has made the population more mixed and the way of life more varied. Australia now considers itself a multicultural nation."
+},
+{
+  "media": {
+    "@id": "au007812",
+    "@rights": "licensed",
+    "@type": "audio",
+    "title": {
+      "$": "Australia's national anthem"
+    }
+  }
+},
+[
+  {
+    "$": "Australians have developed a way of life all their own. Australia has a warm, sunny climate. People spend much of their free time out of doors. Australians love outdoor sports and outdoor living in general. Many Australians also like to travel overseas for study, work experience, and holidays. See "
+  },
+  {
+    "link": {
+      "@id": 323010,
+      "title": {
+        "$": "Life expectancy"
+      },
+      "link-subhead": {
+        "@id": "t01",
+        "$": "table: Life expectancy at birth for selected    countries"
+      }
+    }
+  },
+  {
+    "$": "."
+  }
+],
+[
+  {
+    "$": "Australia has a thriving economy that makes it one of the world's developed countries. It has busy cities, modern factories, and highly productive farms and mines. Australia is the world's leading producer of "
+  },
+  {
+    "i": {
+      "$": "bauxite"
+    }
+  },
+  {
+    "$": " (the ore from which aluminum is made). Australia also produces and exports large amounts of other minerals and farm goods. Income from these exports makes it possible for most Australians to have a high standard of living. Australia's chief trading partners are China and Japan."
+  }
+],
+[
+  {
+    "$": "The Aboriginal people were the first humans to arrive in Australia. Aboriginal people had lived in Australia for at least 50,000 years before the first white settlers arrived. The Torres Strait Islands are the home of Australia's second "
+  },
+  {
+    "i": {
+      "$": "indigenous"
+    }
+  },
+  {
+    "$": " (native) people, known today as the Torres Strait Islanders. "
+  }
+],
+{
+  "$": "Great Britain settled Australia as a prison colony in 1788. After British settlement, the number of whites steadily increased while the Aboriginal population declined dramatically. The Aboriginal population slowed its decline in the early 1900's and has been increasing since the mid-1900's. Today, the majority of Australians are white or have mixed European ancestry, although there are now also many Australians from Asian and Middle Eastern backgrounds."
+},
+[
+  {
+    "$": "For government and history information, see "
+  },
+  {
+    "link": {
+      "@id": "038413",
+      "title": {
+        "$": "Australia, Government of"
+      }
+    }
+  },
+  {
+    "$": ", and "
+  },
+  {
+    "link": {
+      "@id": "038416",
+      "title": {
+        "$": "Australia, History of"
+      }
+    }
+  },
+  {
+    "$": "."
+  }
+],
+{
+  "table": {
+    "@id": "ta038420-t01",
+    "title": {
+      "$": "Australia in brief"
+    }
+  }
+},
+{
+  "table": {
+    "@id": "ta038420-t02",
+    "title": {
+      "$": "States and territories of Australia"
+    }
+  }
+}
+        ],
+        "section": [
+{
+  "@id": "h9",
+  "@type": "center",
+  "title": {
+    "$": "People"
+  },
+  "section": [
+    {
+      "@id": "h10",
+      "@type": "side",
+      "title": {
+        "$": "Population and ancestry."
+      },
+      "p": [
+        {
+"$": " For the total population of Australia, see the Australia in brief table with    this article. Approximately 80 percent of Australia's people live in the    southeastern quarter of the country, especially in large cities along the coast.    Most of the rest of the people live along the northeast and the extreme    southwest coasts. The vast interior of Australia is too dry to support a large    population, and few people live there. Canberra, the national capital, is the    largest inland city. It lies about 80 miles (130 kilometers) from the    coasts."
+        },
+        {
+"media": {
+  "@id": "pc325318",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Canberra, Australia"
+  }
+}
+        },
+        {
+"$": "Most Australians are European immigrants or descendants of European immigrants.    Aboriginal people make up about 2 percent of the population. Traditionally,    Australia has relied heavily on immigrants to build up its labor force. Through    the years, millions of immigrants have been attracted to Australia by the    promise of high-paying jobs, security, and a clean environment."
+        },
+        {
+"media": {
+  "@id": "mp000282",
+  "@rights": "licensed",
+  "@type": "map-atlas",
+  "title": {
+    "$": "Population density in Australia"
+  }
+}
+        },
+        {
+"$": "Until the mid-1900's, the great majority of Australia's immigrants came from the    United Kingdom and Ireland. As a result, most Australians are of British or    Irish ancestry. After World War II ended in 1945, the government began a special    program to encourage mainland Europeans left homeless by the war to move to    Australia. The government later broadened this program to include any Europeans    who wished to move to Australia and could meet the country's immigration    requirements. In general, the immigration authorities prefer applicants who have    some special job skill and a stable personal background."
+        },
+        {
+"$": "Australia has an exceptionally large foreign-born population because of the high    rate of immigration since World War II. About 30 percent of all Australians were    born in other countries. Australia has admitted about 7 million immigrants since    the end of the war. Many have come from the United Kingdom and Ireland. Most of    the rest of the immigrants have come from mainland Europe. Relatively few    Canadians and Americans have moved to Australia. Immigration from Asia has    greatly increased since the 1970's, and European migration has declined. During    the late 1900's and early 2000's, the number of immigrants from New Zealand and    Southeast Asia increased rapidly."
+        }
+      ]
+    },
+    {
+      "@id": "h11",
+      "@type": "side",
+      "title": {
+        "$": "Language."
+      },
+      "p": [
+        {
+"$": " English is the official language of Australia. However, about 25 percent of the    people speak a language other than English at home. The most common languages    after English are Chinese, Italian, Arabic, and Greek."
+        },
+        [
+{
+  "$": "Australian English differs from British English in certain ways. The British who    settled in Australia had to develop a vocabulary to describe the many unfamiliar    animals and plants in their new environment. In some cases, the settlers used    existing English words. For example, they gave the name "
+},
+{
+  "i": {
+    "$": "magpie"
+  }
+},
+{
+  "$": " to a bird    that resembles the British magpie but is actually unrelated to any bird in the    United Kingdom. In other cases, the British settlers borrowed words from    Aboriginal people. Such Aboriginal words as "
+},
+{
+  "i": {
+    "$": "kangaroo"
+  }
+},
+{
+  "$": " and "
+},
+{
+  "i": {
+    "$": "koala"
+  }
+},
+{
+  "$": "    were thus introduced into English."
+}
+        ],
+        [
+{
+  "$": "Pioneer settlers in the Australian interior invented a large, colorful    vocabulary. Large farms became known as "
+},
+{
+  "i": {
+    "$": "stations,"
+  }
+},
+{
+  "$": " their owners as        "
+},
+{
+  "i": {
+    "$": "squatters."
+  }
+},
+{
+  "$": " A herd of animals is a "
+},
+{
+  "i": {
+    "$": "mob,"
+  }
+},
+{
+  "$": " and wild horses are        "
+},
+{
+  "i": {
+    "$": "brumbies."
+  }
+},
+{
+  "$": " The interior itself became known as the "
+},
+{
+  "i": {
+    "$": "outback."
+  }
+},
+{
+  "$": "    Australian English has also produced many colorful figures of speech. For    example, an exceptionally brave person is said to be \"as game as Ned Kelly.\" Ned    Kelly was a famous Australian outlaw of the 1870's. \"Waltzing Matilda,\" the    title of Australia's most famous song, refers neither to a dance nor to a woman.    A "
+},
+{
+  "i": {
+    "$": "matilda"
+  }
+},
+{
+  "$": " is a blanket roll. \"To waltz matilda\" means \"to tramp the    roads.\" See "
+},
+{
+  "link": {
+    "@id": 725286,
+    "title": {
+      "$": "Waltzing Matilda"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        {
+"media": {
+  "@id": "au008227",
+  "@rights": "licensed",
+  "@type": "audio",
+  "title": {
+    "$": "Waltzing Matilda"
+  }
+}
+        },
+        {
+"$": "Australians have a distinctive accent, different from accents in other    English-speaking countries around the world. The accent differs little from one    part of Australia to another. However, it varies somewhat according to a    person's family background, amount of schooling, and gender."
+        }
+      ]
+    },
+    {
+      "@id": "h12",
+      "@type": "side",
+      "title": {
+        "$": "The Aboriginal people"
+      },
+      "p": [
+        {
+"$": " were the first inhabitants of Australia, but most were displaced after the    arrival of European settlers. The majority of Aboriginal people now live in    cities and towns. Since the late 1900's, some Aboriginal people in central and    northern Australia have stayed on, or returned to, their traditional lands.    There they often live in community settlements. These communities preserve some    traditional Aboriginal ways of life, especially languages, religious beliefs,    and styles of painting and craftwork. City and outback communities also nurture    new developments in Aboriginal culture. Contemporary styles of Aboriginal    painting and music, such as the rock group Yothu Yindi, have flourished.    Contemporary Aboriginal painting is now one of the most important and    internationally recognized forms of Australian art. "
+        },
+        {
+"media": {
+  "@id": "au008228",
+  "@rights": "licensed",
+  "@type": "audio",
+  "title": {
+    "$": "Australian Aborigine folk music"
+  }
+}
+        },
+        {
+"media": {
+  "@id": "pc315052",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Aboriginal ceremony"
+  }
+}
+        },
+        [
+{
+  "$": "For more information on the history and culture of the Aboriginal people, see        "
+},
+{
+  "link": {
+    "@id": 751036,
+    "title": {
+      "$": "Aboriginal people of Australia"
+    }
+  }
+},
+{
+  "$": " and "
+},
+{
+  "link": {
+    "@id": "038416",
+    "title": {
+      "$": "Australia, History of"
+    }
+  }
+},
+{
+  "$": ". See also "
+},
+{
+  "link": {
+    "@id": 548025,
+    "title": {
+      "$": "Aboriginal people of Tasmania"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ]
+      ]
+    }
+  ]
+},
+{
+  "@id": "h13",
+  "@type": "center",
+  "title": {
+    "$": "Ways of life"
+  },
+  "p": [
+    {
+      "$": "For most of the 1900's, the difference between rich and poor in Australia was smallerthan in most other Western countries. In the late 1900's, this gap began to increaserapidly. Australia now has clear social differences in the wealth, employment, andeducation of its people. But with the exception of some Aborigines, Australia stilllacks the extremes of poverty found in other developed countries."
+    },
+    {
+      "$": "Australia does not have strong regional differences in cultures or lifestyles.However, lifestyles in rural Australia are different from those in the cities. Manyrural regions are poorer than city areas. The rural areas have higher levels ofunemployment, reduced access to cultural and educational institutions, and fewergovernment or commercial services. Rural and urban voting patterns in elections arequite different. For example, rural voters more often support conservativecandidates."
+    }
+  ],
+  "section": [
+    {
+      "@id": "h14",
+      "@type": "side",
+      "title": {
+        "$": "City life."
+      },
+      "p": [
+        [
+{
+  "$": " About 9 of every 10 Australians live in cities and towns, making Australia one    of the world's most urbanized countries. About 70 percent of all Australians    live in cities of more than 100,000 people. These cities include the federal    capital, Canberra, and the six state capitals. The state capitals, in order of    size, are Sydney, New South Wales; Melbourne, Victoria; Brisbane, Queensland;    Perth, Western Australia; Adelaide, South Australia; and Hobart, Tasmania.    Canberra is smaller than all the state capitals except Hobart. Sydney and    Melbourne are by far the biggest cities in Australia. Sydney has about 4 million    people, and Melbourne about 3 "
+},
+{
+  "fraction": {
+    "$": "3/4"
+  }
+},
+{
+  "$": " million."
+}
+        ],
+        {
+"media": {
+  "@id": "pc313996",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Housing in Port Macquarie, New South Wales"
+  }
+}
+        },
+        {
+"$": "Each of Australia's state capitals serves not only as the political center but    also as the commercial, industrial, and cultural hub of its state. Each is the    oldest or one of the oldest settlements in the state. Each was laid out near the    mouth of a river and as close as possible to a good ocean harbor. The river    provided drinking water. The harbor facilitated trade and immigration. These    advantages helped each state capital become the largest city in its state."
+        },
+        {
+"$": "The main business district of each state capital is its oldest section, the area    nearest the waterfront. In the largest cities, modern structures, including    high-rise office buildings, have replaced most of the original buildings in this    section. In addition to office buildings, the city-center areas have fine shops,    theaters, and restaurants."
+        },
+        {
+"media": {
+  "@id": "pc318170",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Perth, Australia"
+  }
+}
+        },
+        {
+"$": "Most city dwellers in Australia live in the suburbs that extend outward from the    central business district. The suburbs have their own schools, churches,    shopping centers, and recreational facilities. Some suburbs, especially those    around Sydney and Melbourne, also have industrial districts. Since the late    1900's, developers have built new high-rise apartment buildings in the central    areas of the large cities. Older buildings, such as factories and warehouses,    have been converted to modern apartments."
+        },
+        [
+{
+  "$": "Most families live in single-story houses, each with its own garden. About    three-fourths of families own their houses. There are differences in the older    style of housing in the different cities. In Queensland, the older houses are    made of wood, with "
+},
+{
+  "i": {
+    "$": "verandas"
+  }
+},
+{
+  "$": " (wide porches), and they are built above the    ground on poles called "
+},
+{
+  "i": {
+    "$": "stumps."
+  }
+},
+{
+  "$": " In Melbourne and Sydney, many of the older    houses are made of brick or stone and built in rows called "
+},
+{
+  "i": {
+    "$": "terraces."
+  }
+}
+        ],
+        {
+"$": "Australia's big cities have problems common to big cities everywhere, including    air pollution and rush-hour traffic jams. Before the 1950's, the inner suburbs,    those closest to the city, were the poorest residential areas. These areas had    high rates of unemployment and crime. But during the 1950's, many non-British    immigrants began settling in the inner-city suburbs and helped to regenerate    them. Now many middle-class and wealthy residents have moved to these areas, and    many poorer families live in the outer suburbs."
+        }
+      ]
+    },
+    {
+      "@id": "h15",
+      "@type": "side",
+      "title": {
+        "$": "Country life."
+      },
+      "p": [
+        [
+{
+  "$": " Only about 1 of every 10 Australians live in rural areas. Australians call the    remote countryside the "
+},
+{
+  "i": {
+    "$": "bush."
+  }
+},
+{
+  "$": " The term "
+},
+{
+  "i": {
+    "$": "outback"
+  }
+},
+{
+  "$": " refers specifically    to the interior. The outback consists mainly of open countryside, including vast    expanses of grazing land. But it also has widely scattered settlements. The    largest ones are mining towns. See "
+},
+{
+  "link": {
+    "@id": 750181,
+    "title": {
+      "$": "Outback"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        [
+{
+  "$": "Nearly all farms in the outback are wheat farms or cattle and sheep        "
+},
+{
+  "i": {
+    "$": "stations"
+  }
+},
+{
+  "$": " (farms or ranches). Life on the stations tends to be    extremely isolated. The largest stations cover over 1,000 square miles (2,600    square kilometers) and so may be 100 miles (160 kilometers) or more from the    nearest town. In addition, the outback has few paved roads, and so travel by    automobile may be difficult or impossible. Many well-to-do farm families have a    light airplane, which they use for transportation to and from town. Families who    do not own a plane may get to town only a few times a year. In farming regions    nearer the coasts, the towns are larger and closer together. But even in those    regions, farm families may feel far removed from the life of the cities."
+}
+        ],
+        [
+{
+  "$": "Rural Australians' sense of community is reflected in the fact that they have    long had their own political party, the National Party. Many rural communities    in Australia have their own traditional fairs called "
+},
+{
+  "i": {
+    "$": "shows,"
+  }
+},
+{
+  "$": " festivals,    and sports competitions."
+}
+        ],
+        {
+"$": "Poverty is a problem in some rural areas due to the lack of local employment.    However, most farm families own their farms and live comfortably. Older    farmhouses are built of wood and surrounded by a veranda. Newer farmhouses are    constructed of bricks. Nearly all the houses have electric power, and a growing    number of them have air conditioning."
+        },
+        {
+"$": "All rural areas in Australia have such natural disasters as droughts, floods, and    bushfires. Fires can even come close to the major cities in areas like the Blue    Mountains, north of Sydney, or the Dandenong Ranges, near Melbourne."
+        }
+      ]
+    },
+    {
+      "@id": "h16",
+      "@type": "side",
+      "title": {
+        "$": "Food and drink."
+      },
+      "p": [
+        {
+"$": " Meat is plentiful in Australia and makes up a large part of the people's diet.    Beef is the most popular meat, followed by poultry, pork, and lamb and mutton.    British customs strongly influenced Australian food choices until after World    War II. Since the late 1950's, the number of immigrants from mainland Europe has    increased. More Australians travel to Europe and other areas. As a result,    Italian, Greek, and other European styles of cooking have become increasingly    popular. In restaurants and in the home, Australian food also shows the strong    influence of Indian and Southeast Asian cooking styles. Chinese restaurants are    common throughout Australia. In addition, the larger cities have Indian,    Japanese, Thai, and Vietnamese restaurants."
+        },
+        {
+"$": "Tea remains the favorite hot drink of older Australians. However, younger    Australians prefer coffee. Coffee consumption has more than tripled since the    mid-1900's, while tea consumption has declined. Beer is the most popular    alcoholic drink. However, its consumption is declining in relation to the    consumption of wine, which has increased rapidly since the 1980's. Australia is    an important wine-producing country, and many Australians drink red or white    wine regularly."
+        },
+        {
+"media": {
+  "@id": "pc315947",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Barossa Valley"
+  }
+}
+        }
+      ]
+    },
+    {
+      "@id": "h17",
+      "@type": "side",
+      "title": {
+        "$": "Recreation."
+      },
+      "p": [
+        {
+"$": " Most Australians enjoy such recreation as visiting friends, going for a drive or    walk, or watching television. Outdoor sports are extremely popular. Many people    enjoy skin diving, surfing, swimming, or boating. Many also play golf and    tennis. Team sports are a national pastime. Australians begin to play team    sports in elementary school, and many continue to play them throughout life. The    best players may work their way up through local and state competitions and    perhaps win a position in one of the national teams. The nation's professional    sports teams have large and enthusiastic followings."
+        },
+        {
+"media": {
+  "@id": "pc315066",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Manly Beach, Australia"
+  }
+}
+        },
+        [
+{
+  "$": "The most popular team sports in Australia are cricket, Australian Rules football,    rugby league, rugby union, basketball, soccer, and "
+},
+{
+  "i": {
+    "$": "netball"
+  }
+},
+{
+  "$": " (a    goal-scoring game of throwing and catching that is played by two teams). Cricket    is a favorite summer sport in Australia. The Australian national cricket team    regularly plays against teams from England, India, New Zealand, Pakistan, South    Africa, and the Caribbean."
+}
+        ],
+        {
+"media": {
+  "@id": "pc313998",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Cricket in Australia"
+  }
+}
+        },
+        [
+{
+  "$": "Australian Rules football, rugby league, rugby union, and soccer are played    mainly during the winter. Australian Rules football was invented in Australia    and is played mainly there and in the former Australian possession of Papua New    Guinea. It is especially popular in southern Australia (see "
+},
+{
+  "link": {
+    "@id": 724214,
+    "title": {
+      "$": "Australian Rules football"
+    }
+  }
+},
+{
+  "$": "). Rugby league and rugby union are forms of football that were invented    in England. Australia plays rugby league and rugby union chiefly against the    United Kingdom, France, South Africa, and New Zealand. Soccer is the    fastest-growing team sport in Australia. The national soccer team plays teams    from many other countries."
+}
+        ],
+        {
+"media": {
+  "@id": "pc313997",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Australian Rules football game"
+  }
+}
+        },
+        [
+{
+  "$": "Netball is played mainly by women. It is popular in the countries of the    Commonwealth that were once British colonies. Australia has often been the world    champion. In terms of the number of people playing the sport, netball is the    most popular team sport in Australia. However, it does not attract the media    attention or large crowds of such sports as Australian Rules football and    cricket. See "
+},
+{
+  "link": {
+    "@id": 740674,
+    "title": {
+      "$": "Netball"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        {
+"$": "Australia has produced many world-famous athletes, especially in tennis, golf,    swimming, and track and field. Australians have won numerous Olympic medals in    swimming, track and field, rowing, cycling, and yachting. Australians also    compete successfully in the international sport of surfing."
+        },
+        [
+{
+  "$": "Top Australian tennis stars include Evonne Goolagong Cawley, who won seven major    tournament singles titles in the 1970's and early 1980's. Margaret Smith Court    won the "
+},
+{
+  "i": {
+    "$": "grand slam"
+  }
+},
+{
+  "$": " of tennis—all four major tournaments in one year—in    1970. Rod Laver was the first tennis player to win the grand slam twice, in 1962    and 1969. Other Australian tennis champions include John Newcombe and Ken    Rosewall. Lleyton Hewitt and Patrick Rafter gained top rankings in the late    1990's and early 2000's."
+}
+        ],
+        {
+"$": "Australian golf champions include Bruce Crampton, Kel Nagle, Greg Norman, and    Peter Thomson. In 2001, Australian golfer Karrie Webb became the youngest woman    to win the grand slam of women's golf, at age 26."
+        },
+        {
+"$": "Many Australians have become top-ranked swimmers. Dawn Fraser won three    successive gold medals in the women's 100-meter free-style race at the Olympic    Games from 1956 to 1964. Susie O'Neill competed in three Olympics, winning eight    medals before her retirement in 2001. Kieren Perkins also competed and won    medals in three Olympics. Perkins is the first swimmer in history to hold    Olympic, World, and Commonwealth titles at the same time. His teammate in the    2000 Olympics, Ian Thorpe, won five medals. Thorpe became one of the world's    dominant free-style swimmers while still a teenager. Stephanie Rice won three    gold medals at the 2008 Olympics. Other well-known Australian swimmers include    Rebecca Brown, Shane Gould, Grant Hackett, Samantha Riley, and Murray Rose."
+        },
+        {
+"$": "Famous Australian track and field athletes include Ron Clarke, Herb Elliott, and    John Landy. The Aboriginal track star Cathy Freeman lit the Olympic flame during    the opening ceremony of the 2000 Olympic Games in Sydney. She won the gold medal    in the women's 400-meter race at those Olympics."
+        },
+        {
+"media": {
+  "@id": "pc307807",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Cathy Freeman"
+  }
+}
+        },
+        [
+{
+  "$": "Some of Australia's traditional sporting events receive worldwide attention.    Probably the most famous event is the annual Melbourne Cup, a horse race eagerly    followed by Australians and attended by racing fans from throughout the world.    See "
+},
+{
+  "link": {
+    "@id": 739495,
+    "title": {
+      "$": "Melbourne Cup"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ]
+      ]
+    },
+    {
+      "@id": "h18",
+      "@type": "side",
+      "title": {
+        "$": "Education."
+      },
+      "p": [
+        {
+"$": " Each Australian state and mainland territory has its own laws concerning    education. The federal government regulates education in the other territories.    In all the states and territories except South Australia and Tasmania, children    must attend school from age 6 to age 15. However, they may start school before    the age of 6, and most start at age 5. South Australia and Tasmania require    children to attend school from age 6 to age 16. The majority of Australian    students attend state or territory schools. Other students go to Roman Catholic    schools or other independent schools."
+        },
+        {
+"$": "Each Australian state operates its own state school system. However, the state    systems use some funding from the federal government to support their school    system. The Roman Catholic Church owns and operates most of Australia's    independent schools. Unlike the state schools, most of the independent schools    in Australia charge a tuition fee. The federal government supplies funds to    assist independent schools."
+        },
+        [
+{
+  "$": "Australian primary schools provide six to eight years of study. The number of    years varies from one state or territory to another, and in some cases includes    a year of kindergarten. Australian secondary schools offer five or six years of    education, depending on the state or territory. The vast majority of the    students continue beyond the required years of schooling, and most of them    graduate from secondary school. Most of the students who graduate go on to a    university or college. See "
+},
+{
+  "link": {
+    "@id": 326420,
+    "title": {
+      "$": "Literacy"
+    },
+    "link-subhead": {
+      "@id": "t01",
+      "$": "table: Literacy rates for selected  countries"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        [
+{
+  "$": "Many Australian children in remote areas of the outback receive their primary and    secondary education at home by means of traveling teachers and correspondence    schools, often called "
+},
+{
+  "i": {
+    "$": "schools of the air."
+  }
+},
+{
+  "$": " Each state operates a    correspondence school for children in isolated areas. The Northern Territory    operates two such schools. The students receive and turn in their assignments by    mail or through the Internet. Four states—New South Wales, Queensland, South    Australia, and Western Australia—and the Northern Territory operate schools of    the air to enable students to communicate with teachers directly. The teachers    are stationed at broadcasting centers in various parts of the country and talk    with students by means of two-way radios, computers, televisions, and fax    machines."
+}
+        ],
+        {
+"media": {
+  "@id": "pc313944",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "School of the air"
+  }
+}
+        },
+        {
+"$": "Australia has more than 40 universities or colleges. Most of Australia's    universities are publicly owned. Each university offers undergraduate and    graduate studies. Australia also has several publicly owned colleges or    institutes, such as the Australian Maritime College, which specialize in    particular areas. Students at publicly owned universities and colleges pay    tuition fees that cover part of the cost of their education, and the federal    government pays the rest. Tuition fees at Australia's private universities are    considerably higher."
+        },
+        [
+{
+  "$": "Australia has many public and school libraries. For information about Australia's    libraries, see "
+},
+{
+  "link": {
+    "@id": 322340,
+    "title": {
+      "$": "Library"
+    },
+    "link-subhead": {
+      "@id": "h49",
+      "$": "Australia and East Asia"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ]
+      ]
+    },
+    {
+      "@id": "h19",
+      "@type": "side",
+      "title": {
+        "$": "Religion."
+      },
+      "p": [
+        {
+"$": " The Australian Constitution forbids a state religion and guarantees religious    freedom. More than half of Australians are Christians, but many do not attend    church regularly. The Anglican Church and the Roman Catholic Church have the    most members."
+        },
+        {
+"$": "Smaller numbers of Australians belong to the Baptist, Eastern Orthodox, Lutheran,    and Uniting churches. In 1977, the Methodist Church of Australasia joined with a    majority of the country's Congregationalists and Presbyterians to form the    Uniting Church in Australia. The Uniting Church is now Australia's third largest    religious denomination. Buddhists and Muslims each make up about 2 percent of    the country's population. Australia has small Hindu and Jewish minorities. About    one-fifth of the population claim no specific religion."
+        },
+        {
+"$": "The religions that are growing most rapidly in Australia are Buddhism, Hinduism,    and Islam. The proportion of Christians is declining. In general, the size of    Australia's religious groups reflects the ancestry of the people. For example,    the Anglican Church began in England, the source of many Australian immigrants.    The large number of Roman Catholics reflects the fact that many of the    immigrants came to Australia from Ireland, Italy, and other Catholic countries.    Most of the Jews or their parents or grandparents came from mainland Europe. The    Muslims or their ancestors migrated chiefly from the Middle East and from    southern and southeastern Asia."
+        }
+      ]
+    }
+  ]
+},
+{
+  "@id": "h73",
+  "@type": "center",
+  "title": {
+    "$": "The arts"
+  },
+  "p": {
+    "$": "The federal government helps fund the major opera, ballet, and theater companies; themajor symphony orchestras; and the motion-picture industry. It gives financial helpto writers, painters, musicians, and composers."
+  },
+  "section": [
+    {
+      "@id": "h74",
+      "@type": "side",
+      "title": {
+        "$": "Painting."
+      },
+      "p": [
+        [
+{
+  "$": " Aboriginal rock art is one of the oldest continuous art traditions in the world,    dating back at least 40,000 years. Experts believe that Aboriginal people may    have been painting even earlier. Archaeologists have found pieces of        "
+},
+{
+  "i": {
+    "$": "ocher,"
+  }
+},
+{
+  "$": " a colored earth sometimes used for painting, on the floor of    Australian caves. Some of this ocher is more than 30,000 years old. Aboriginal    artists also painted on bark, using elaborate designs of human and animal    figures. In the late 1930's, a group of Aboriginal artists in central Australia    developed a style of water-color landscape painting. The most famous of them was    Albert Namatjira."
+}
+        ],
+        {
+"media": {
+  "@id": "pc359745",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Aboriginal painting"
+  }
+}
+        },
+        {
+"$": "The first white painters include artists who recorded scientific and geographical    information, beginning with the voyage led by the British navigator Captain    James Cook in 1768. Early artists provided colonists in Australia with portraits    and landscapes to send to Britain. "
+        },
+        [
+{
+  "$": "In the 1880's, a group of Australian artists began to paint in the Impressionist    style, showing the ever-changing effects of nature. They are sometimes referred    to as the Heidelberg  "
+},
+{
+  "link": {
+    "@id": 111400,
+    "title": {
+      "$": "China"
+    }
+  }
+},
+{
+  "$": " School, after Heidelberg, a suburban village near Melbourne where they    worked. Leaders of this school included Charles Conder, Frederick McCubbin, Tom    Roberts, and Arthur Streeton."
+}
+        ],
+        {
+"$": "During the 1900's, a number of Australian painters developed unique styles. The    portrait painter William Dobell became famous for his revealing character    studies. Russell Drysdale became known for his haunting pictures of the outback.    Sidney Nolan created fantastic, dreamlike paintings based on themes from    Australian folklore. During the middle and late 1900's, paintings of the outback    by Frederick Williams won admiration. The National Gallery of Australia in    Canberra houses the country's national art collection. The National Gallery of    Victoria, in Melbourne, and the Art Gallery of New South Wales, in Sydney, also    have major collections."
+        },
+        {
+"media": {
+  "@id": "pc119823",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Glenrowan by Sir Sidney Nolan"
+  }
+}
+        }
+      ]
+    },
+    {
+      "@id": "h75",
+      "@type": "side",
+      "title": {
+        "$": "Music and dance."
+      },
+      "p": [
+        [
+{
+  "$": " Australia has a national opera company, Opera Australia, and a national ballet    company, the Australian Ballet. State companies, such as the Sydney Dance    Company and Opera Queensland, are well known. Each state capital has a    professional symphony orchestra. A number of world-famous singers and composers    were born in Australia. They include opera singers Marjorie Lawrence, Dame    Nellie Melba, and Dame Joan Sutherland and composers Percy Grainger and Peter    Sculthorpe. Modern composer Richard Meale is known for his stage and    instrumental works, including the opera "
+},
+{
+  "i": {
+    "$": "Voss"
+  }
+},
+{
+  "$": " (1986)."
+}
+        ],
+        {
+"media": {
+  "@id": "pc324591",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Arts Centre and Hamer Hall"
+  }
+}
+        }
+      ]
+    },
+    {
+      "@id": "h76",
+      "@type": "side",
+      "title": {
+        "$": "Theater and motion pictures."
+      },
+      "p": [
+        {
+"$": " Each of Australia's state capitals has a permanent company of professional    actors and actresses. Each company offers a yearlong season of classical and    modern plays."
+
+        },
+        {
+"media": {
+  "@id": "pc315233",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "My Brilliant Career"
+  }
+}
+        },
+        {
+"$": "Australia was one of the first countries to develop a motion-picture industry.    Australian filmmakers produced their first feature film in 1906, only three    years after the first motion picture was made in the United States. The    Australian film industry nearly died out after the late 1930's because of    competition from American and British movies. But Australian filmmaking revived    during the late 1960's. Today, Australian film and television production are    high-profile export industries. Such motion-picture stars as Cate Blanchett,    Russell Crowe, Mel Gibson, and Nicole Kidman have gained international acclaim    for their work. The diverse films of directors Bruce Beresford, Baz Luhrmann,    George Miller, and Peter Weir show the growing importance and creativity of the    Australian filmmaking industry."
+        },
+        {
+"media": {
+  "@id": "vd001033",
+  "@rights": "licensed",
+  "@type": "video",
+  "title": {
+    "$": "Russell Crowe"
+  }
+}
+        }
+      ]
+    },
+    {
+      "@id": "h77",
+      "@type": "side",
+      "title": {
+        "$": "Architecture."
+      },
+      "p": [
+        {
+"$": " During the 1800's, many public buildings and private houses in Australia were    built in the Georgian or Victorian style of architecture. Both these styles    originated in England. The Georgian style featured a simple square or    rectangular design and classical ornaments, especially columns. The Australian    version of the Georgian style introduced the veranda as a basic element of the    country's architecture. Most Victorian buildings had an irregular shape and    elaborate ornaments, such as spires and pointed domes. The railings and roof    supports for Victorian verandas were made of showy iron grillwork. There is an    active state-supported movement to preserve Australia's historic buildings."
+        },
+        {
+"media": {
+  "@id": "pc325780",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Sydney Opera House"
+  }
+}
+        },
+        {
+"$": "Today, Australia's architecture is international in style. The large cities have    towering structures of concrete, steel, and glass similar to those in other    countries. However, some modern Australian architecture is highly unusual. The    Sydney Opera House, a spectacular structure with saillike roofs, has attracted    worldwide attention since its completion in 1973. It was designed by the Danish    architect Jørn Utzon."
+        },
+        {
+"media": {
+  "@id": "pc315049",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Sydney Harbour"
+  }
+}
+        }
+      ]
+    }
+  ]
+},
+{
+  "@id": "h26",
+  "@type": "center",
+  "title": {
+    "$": "The land"
+  },
+  "p": [
+    {
+      "$": "Australia is surrounded by water, like an island. But geographers class it as acontinent rather than as an island because of its great size. It is sometimesreferred to as an \"island continent.\""
+    },
+    {
+      "media": {
+        "@id": "mp000468",
+        "@rights": "licensed",
+        "@type": "map-atlas",
+        "title": {
+"$": "Terrain of Australia"
+        }
+      }
+    },
+    {
+      "$": "Australia covers about 5 percent of Earth's land area. The island of Tasmania, whichlies about 130 miles (209 kilometers) south of the Australian mainland, isconsidered part of the continent. Tasmania was part of the mainland until about12,000 years ago. It became separated because the level of the ocean rose andcovered the land connection."
+    },
+    {
+      "$": "Most of Australia is low and flat. The highest and most mountainous land lies alongthe east coast. Nearly all the land west of this region—about 90 percent of thetotal land area—consists of level plains and plateaus."
+    }
+  ],
+  "section": [
+    {
+      "@id": "h27",
+      "@type": "side",
+      "title": {
+        "$": "Land regions."
+      },
+      "p": {
+        "$": " Australia can be divided into three major land regions. They are, from east to    west: (1) the Eastern Highlands, (2) the Central Lowlands, and (3) the Western    Plateau."
+      },
+      "section": [
+        {
+"@id": "h28",
+"@type": "auxillary",
+"title": {
+  "$": "The Eastern Highlands"
+},
+"p": [
+  {
+    "$": " include the highest elevations in Australia. The region extends from Cape        York Peninsula in extreme northeastern Australia to the south coast of        Tasmania. A low plain bordered by sandy beaches and rocky cliffs stretches        along the Pacific coast. More rain falls on this coastal plain than anywhere        else in the country. The southeastern section of the plain, from Brisbane to        Melbourne, is by far the most heavily populated part of Australia."
+  },
+  {
+    "media": {
+      "@id": "pc313999",
+      "@rights": "licensed",
+      "@type": "photo",
+      "title": {
+        "$": "Eastern Highlands of Australia"
+      }
+    }
+  },
+  [
+    {
+      "$": "The Eastern Highlands are sometimes called the "
+    },
+    {
+      "i": {
+        "$": "Great Dividing Range"
+      }
+    },
+    {
+      "$": "        because their slopes divide the flow of the rivers in the region. Rivers        that flow down the eastern slopes empty into the ocean. Rivers that run down        the western slopes flow to the Central Lowlands. However, the highlands are        not a single range, nor are they especially mountainous. They consist mainly        of high plateaus that are broken in many places by gorges, hills, and low        mountain ranges."
+    }
+  ],
+  [
+    {
+      "$": "Many of the plateaus in the Eastern Highlands have fertile soils and are used        as cropland. Grass or forests cover other plateaus. At one time, forests        also covered much of the coastal plain. Except in the far north, however,        people have cleared most of the coastal forests for farms and cities. See  "
+    },
+    {
+      "link": {
+        "@id": 724625,
+        "title": {
+"$": "Great Dividing Range"
+        }
+      }
+    },
+    {
+      "$": "."
+    }
+  ]
+]
+        },
+        {
+"@id": "h29",
+"@type": "auxillary",
+"title": {
+  "$": "The Central Lowlands"
+},
+"p": [
+  {
+    "$": " have the lowest elevations in Australia. The region is generally flat. Many        rivers flow through the lowlands after heavy rains. Rains are infrequent,        however, except along the region's north and south coasts and near the        Eastern Highlands. Riverbeds farther inland are dry most of the year."
+  },
+  {
+    "$": "Farmers in the southern part of the Central Lowlands grow wheat. Most of the        rest of the region is too dry or too hot for most kinds of crops. However,        much of the land is covered with coarse grass or shrubs and is used to graze        livestock. The west-central part of the region is a barren, sandy desert.        Lake Eyre, the lowest point in Australia, lies 52 feet (16 meters) below sea        level along the southern edge of this desert."
+  },
+  {
+    "media": {
+      "@id": "pc310844",
+      "@rights": "licensed",
+      "@type": "photo",
+      "title": {
+        "$": "Golden wheat fields"
+      }
+    }
+  },
+  {
+    "$": "The region has no large cities. The two biggest cities—Mount Isa and Broken        Hill—have fewer than 30,000 people each. Both cities are mining centers."
+  }
+]
+        },
+        {
+"@id": "h30",
+"@type": "auxillary",
+"title": {
+  "$": "The Western Plateau"
+},
+"p": [
+  {
+    "$": " covers the western two-thirds of Australia. The region has a higher average        elevation than the Central Lowlands. However, most of the land is flat, as        in the lowlands."
+  },
+  [
+    {
+      "$": "Deserts cover the central part of the Western Plateau. Except in the south        and northeast, the deserts gradually give way to land covered by grass and        shrubs. Farmers use much of this land to graze livestock. Low mountain        ranges rise above the plateau in the grazing areas. Rainfall is heaviest in        the extreme north and southwest. These areas have most of the region's        cropland. A vast, dry, treeless plateau called the Nullarbor Plain extends        about 400 miles (640 kilometers) along the southern edge of the region. The        name "
+    },
+    {
+      "i": {
+        "$": "Nullarbor"
+      }
+    },
+    {
+      "$": " comes from the Latin words "
+    },
+    {
+      "i": {
+        "$": "nulla"
+      }
+    },
+    {
+      "$": " and  "
+    },
+    {
+      "i": {
+        "$": "arbor,"
+      }
+    },
+    {
+      "$": " which mean "
+    },
+    {
+      "i": {
+        "$": "no tree."
+      }
+    }
+  ],
+  {
+    "media": {
+      "@id": "pc037044",
+      "@rights": "licensed",
+      "@type": "photo",
+      "title": {
+        "$": "Dry grazing land"
+      }
+    }
+  },
+  [
+    {
+      "$": "The Western Plateau region has two large cities, Adelaide and Perth. Both        cities lie on coastal plains, Adelaide in the extreme southeastern part of        the region and Perth in the extreme southwest. See "
+    },
+    {
+      "link": {
+        "@id": 724945,
+        "title": {
+"$": "Nullarbor Plain"
+        }
+      }
+    },
+    {
+      "$": "."
+    }
+  ]
+]
+        }
+      ]
+    },
+    {
+      "@id": "h31",
+      "@type": "side",
+      "title": {
+        "$": "Mountains."
+      },
+      "p": [
+        {
+"$": " Australia's highest mountains rise in the Australian Alps in the extreme    southern part of the Eastern Highlands. The Australian Alps consist of several    ranges. The Snowy Mountains are the best known. Australia's highest peak, Mount    Kosciuszko, rises 7,310 feet (2,228 meters) above sea level in the Snowy    Mountains. Mount Kosciuszko and other tall peaks in the Australian Alps are snow    covered in winter and attract many skiers."
+        },
+        [
+{
+  "$": "The mountain ranges in the Western Plateau are much lower than those in the    Australian Alps. The highest peaks are in the MacDonnell and Musgrave ranges in    central Australia. Uluru (also known as Ayers Rock) is a huge loaf-shaped rock    formation just south of the MacDonnell Ranges in Uluru-Kata Tjuta National Park.    It is a popular tourist attraction and a sacred area for Aborigines. See "
+},
+{
+  "link": {
+    "@id": 724217,
+    "title": {
+      "$": "Uluru"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        {
+"media": {
+  "@id": "pc315067",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Uluru-Kata Tjuta National Park"
+  }
+}
+        }
+      ]
+    },
+    {
+      "@id": "h32",
+      "@type": "side",
+      "title": {
+        "$": "Deserts"
+      },
+      "p": {
+        "$": " cover about one-third of Australia. The country has four major deserts. The    Simpson Desert lies along the western edge of the Central Lowlands. The three    other deserts—the Gibson, Great Sandy, and Great Victoria deserts—cover the    central part of the Western Plateau. All the deserts except the Gibson consist    of swirling sands, which often drift into giant dunes. Some dunes measure more    than 200 miles (320 kilometers) long. The Gibson Desert lies outside the path of    the general wind direction and of wind-blown sands. Its surface consists of a    mass of small stones and pebbles."
+      }
+    },
+    {
+      "@id": "h33",
+      "@type": "side",
+      "title": {
+        "$": "Rivers"
+      },
+      "p": [
+        {
+"$": " are one of Australia's most vital resources. Rivers provide the towns and cities    with drinking water, and they supply farmers with much-needed water for    irrigation. However, many of Australia's rivers are dry at least part of the    year. They fill with water only during the rainy season. The rainy season occurs    in summer in northern Australia, and in winter in southern Australia. Dams and    reservoirs on all the largest rivers store water for use during the dry    season."
+        },
+        {
+"media": {
+  "@id": "pc324594",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Murray River"
+  }
+}
+        },
+        [
+{
+  "$": "The Murray River is Australia's longest permanently flowing river. The Murray    starts in the Snowy Mountains in New South Wales and winds west 1,609 miles    (2,589 kilometers). Its mouth lies southeast of Adelaide in South Australia.    However, drought and irrigation demands have at times caused the mouth of the    river to dry up (see "
+},
+{
+  "link": {
+    "@id": 378280,
+    "title": {
+      "$": "Murray River"
+    }
+  }
+},
+{
+  "$": "). During the southern dry season, the Murray is fed by the country's    longest river, the Darling. The Darling River begins in the central part of the    Eastern Highlands and flows southwest 1,702 miles (2,739 kilometers) to the    Murray. The Darling is dry along most of its course in the winter. Its flow    increases in summer, when the northern and central parts of the Eastern    Highlands receive most of their rain (see "
+},
+{
+  "link": {
+    "@id": 724483,
+    "title": {
+      "$": "Darling River"
+    }
+  }
+},
+{
+  "$": ")."
+}
+        ],
+        {
+"media": {
+  "@id": "pc324580",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Darling River"
+  }
+}
+        },
+        [
+{
+  "$": "Australia's biggest water conservation project is the Snowy Mountains Scheme. It    consists of an extensive system of dams, aqueducts, and tunnels. Some of the    aqueducts and tunnels carry water from melting snows in the Snowy Mountains to    nearby dams. The dams store the water. Other aqueducts and tunnels channel water    from the dams into the Murray and Murrumbidgee rivers. The increased flow of    water in these rivers is used to irrigate cropland in New South Wales and    Victoria. This irrigation is crucial to agriculture in many parts of Australia.    However, it has also caused serious problems of "
+},
+{
+  "i": {
+    "$": "salinization"
+  }
+},
+{
+  "$": "    (accumulation of salt in the soil). The salts in the soil have been brought to    the surface by the water, making the land unsuitable for crops. See "
+},
+{
+  "link": {
+    "@id": 725126,
+    "title": {
+      "$": "Snowy Mountains Scheme"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        {
+"media": {
+  "@id": "pc360052",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Snowy Mountains Scheme"
+  }
+}
+        },
+        {
+"$": "Hydroelectric plants at the dams supply New South Wales, Victoria, and the    Capital Territory with a little of their electric power. Tasmania draws almost    all of its electric power from hydroelectric facilities."
+        }
+      ]
+    },
+    {
+      "@id": "h34",
+      "@type": "side",
+      "title": {
+        "$": "Lakes."
+      },
+      "p": [
+        {
+"$": " Australia's only large permanent lakes have been artificially created. They    include Lake Argyle in Western Australia and Lake Gordon in Tasmania. Both are    reservoirs for water conservation projects."
+        },
+        [
+{
+  "$": "Most of Australia's natural lakes are dry for months or years at a time. Dry    lakes called "
+},
+{
+  "i": {
+    "$": "playas"
+  }
+},
+{
+  "$": " are common in South Australia and Western Australia.    Most of the time, a playa is simply a dry bed of salt or clay. It fills with    water only after heavy rains. Many playas remain dry for years. The largest    playas are in South Australia. They include Lake Eyre, Lake Torrens, Lake    Gairdner, and Lake Frome."
+}
+        ]
+      ]
+    },
+    {
+      "@id": "h35",
+      "@type": "side",
+      "title": {
+        "$": "Underground water."
+      },
+      "p": [
+        {
+"$": " Australia has fairly plentiful underground water. But most of it is too salty    for people to drink or for use as irrigation water. In many areas, however, the    water is not too salty for livestock to drink. On many large cattle and sheep    stations, underground wells supply all the drinking water for the animals."
+        },
+        [
+{
+  "$": "Much of Australia's underground water is "
+},
+{
+  "i": {
+    "$": "artesian"
+  }
+},
+{
+  "$": " water. Artesian water is    trapped under such great pressure that it gushes to the surface through any    opening. The water can thus be brought to the surface merely by digging a well.    It does not have to be pumped."
+}
+        ],
+        [
+{
+  "$": "Australia's chief source of artesian water is a vast underground rock formation    called the Great Artesian Basin. The basin extends across much of eastern    Australia. Other artesian basins lie near the northwest, west, and south coasts.    Most of the water in the Great Artesian Basin is quite salty and so can be drunk    only by livestock. In general, the water in the coastal basins has less salt.    Farmers use some of this water for irrigation. Adelaide, Perth, and many smaller    communities get some drinking water from coastal basins. See "
+},
+{
+  "link": {
+    "@id": 233860,
+    "title": {
+      "$": "Great Artesian Basin"
+    }
+  }
+
+},
+{
+  "$": "."
+}
+        ]
+      ]
+    },
+    {
+      "@id": "h36",
+      "@type": "side",
+      "title": {
+        "$": "The Great Barrier Reef"
+      },
+      "p": [
+        [
+{
+  "$": " is the world's largest coral reef and one of Australia's most popular tourist    attractions. Although its name suggests one reef, the Great Barrier Reef is a    chain of thousands of individual reefs. The reefs and islands extend in a nearly    unbroken chain along Australia's northeast coast. The reefs are composed of    about 400 species of corals of many shapes and colors. The waters around the    Great Barrier Reef are warm the year around. The warm waters and the beauty of    the coral formations attract swimmers and skin divers. The Great Barrier Reef is    protected because of its environmental importance. It is one of Australia's 14    World Heritage areas, areas on an international registry of sites that have    great natural or cultural value. Others include Kakadu National Park and    Uluru-Kata Tjuta National Park, both in the Northern Territory. See "
+},
+{
+  "link": {
+    "@id": 233900,
+    "title": {
+      "$": "Great Barrier Reef"
+    }
+  }
+},
+{
+  "$": "; "
+},
+{
+  "link": {
+    "@id": 610330,
+    "title": {
+      "$": "World Heritage List"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        {
+"media": {
+  "@id": "pc315068",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Great Barrier Reef"
+  }
+}
+        }
+      ]
+    }
+  ]
+},
+{
+  "@id": "h37",
+  "@type": "center",
+  "title": {
+    "$": "Climate"
+  },
+  "p": [
+    {
+      "$": "The northern third of Australia lies in the tropics and so is warm or hot the yeararound. The rest of the country lies south of the tropics and has warm summers andmild or cool winters."
+    },
+    {
+      "$": "In winter, many parts of the south have occasional frosts. But the Australian Alpsand the interior of Tasmania are the only areas of the country where temperaturesremain below freezing for more than a day or so at a time."
+    },
+    {
+      "$": "Australia receives most of its moisture as rain. Snow falls only in Tasmania and theAustralian Alps. About two-thirds of the country is arid or semiarid and receivesless than 10 inches (25 centimeters) of rain a year. The deserts are too barren evenfor the grazing of livestock. Much of the rest of Australia has less than 20 inches(51 centimeters) of rainfall annually. Few crops can be grown in these regionswithout irrigation. The heaviest rainfall occurs along the north, east, southeast,and extreme southwest coasts."
+    },
+    {
+      "media": {
+        "@id": "mp001108",
+        "@rights": "licensed",
+        "@type": "map-atlas",
+        "title": {
+"$": "Climate in Australia"
+        }
+      }
+    },
+    {
+      "$": "The east coast of Queensland is the wettest part of the continent. Some places alongthis coast receive as much as 150 inches (381 centimeters) of rain a year. Parts ofthe southeast coast and of Tasmania are the only areas of the continent that getuniform amounts of rainfall throughout the year. Rainfall is seasonal throughout therest of Australia."
+    },
+    {
+      "media": {
+        "@id": "mp000283",
+        "@rights": "licensed",
+        "@type": "map-atlas",
+        "title": {
+"$": "Average January temperatures in Australia"
+        }
+      }
+    },
+    {
+      "$": "Australia lies south of the equator, and so its seasons are opposite those in theNorthern Hemisphere. The southern part of the continent has four distinct seasons.Winter, the wettest and coolest season in Australia, lasts from June to August.Summer, the hottest and driest season, lasts from December to February."
+    },
+    {
+      "media": {
+        "@id": "mp000284",
+        "@rights": "licensed",
+        "@type": "map-atlas",
+        "title": {
+"$": "Average July temperatures in Australia"
+        }
+      }
+    },
+    {
+      "$": "Tropical northern Australia has only two seasons—a wet season and a dry one. The wetseason corresponds with summer and lasts from November to April. The dry seasoncorresponds with winter and lasts from May to October."
+    },
+    {
+      "$": "The wet season brings heavy downpours and violent storms, especially on Australia'snorth coast. In 1974, for example, a cyclone almost leveled the northern coastalcity of Darwin. Floods plague many parts of Australia during the wet season.However, droughts are usually a far more serious problem. Nearly every section ofAustralia has a drought during the country's annual dry season."
+    },
+    {
+      "media": {
+        "@id": "mp000285",
+        "@rights": "licensed",
+        "@type": "map-atlas",
+        "title": {
+"$": "Average yearly precipitation in Australia"
+        }
+      }
+    },
+    {
+      "$": "Water conservation measures prevent these droughts from doing serious harm in mostcases. However, Australia also has periods when little or no rain falls even duringthe wet season. These droughts can cause severe water shortages."
+    }
+  ]
+},
+{
+  "@id": "h38",
+  "@type": "center",
+  "title": {
+    "$": "Animals and plants"
+  },
+  "section": [
+    {
+      "@id": "h39",
+      "@type": "side",
+      "title": {
+        "$": "Native animals."
+      },
+      "p": [
+        [
+{
+  "$": " At one time, all the continents were part of one huge land mass. Australia    became separated from this land mass about 200 million years ago. As a result,    its animals developed differently from those on other continents. Australia's    most famous native animals include kangaroos, koalas, wallabies, wombats, and    other "
+},
+{
+  "i": {
+    "$": "marsupials."
+  }
+},
+{
+  "$": " Marsupials are mammals that give birth to tiny, poorly    developed offspring. In most species, the babies mature in a pouch on the    mother's abdomen. Australia has about 200 species of marsupials, all of which    have pouches. One or more species live in every part of the country. See "
+},
+{
+  "link": {
+    "@id": 346460,
+    "title": {
+      "$": "Marsupial"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        {
+"media": {
+  "@id": "pc037211",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Koala eating eucalyptus leaves"
+  }
+}
+        },
+        {
+"media": {
+  "@id": "pc013875",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Red kangaroo"
+  }
+}
+        },
+        {
+"$": "The platypus and the echidna are among the strangest Australian animals. They are    the only mammals that hatch their young from eggs. Platypuses live only in    Australia. Echidnas live in Australia and on the neighboring island of New    Guinea."
+        },
+        {
+"media": {
+  "@id": "pc037209",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Platypus"
+  }
+}
+        },
+        {
+"$": "Australia has about 700 species of native birds. They include the world's only    black swans and about 60 kinds of cockatoos, parakeets, and other parrots. Two    large flightless birds, the emu and the cassowary, are also native to Australia.    The kookaburra, a member of the kingfisher family, is one of Australia's    best-known birds. Its loud, harsh call is a familiar sound in residential    areas."
+        },
+        {
+"media": {
+  "@id": "pc037204",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Emu"
+  }
+}
+        },
+        {
+"$": "Australia has about 140 species of snakes and about 500 species of lizards. Most    of the snakes are poisonous. In fact, taipans and tiger snakes are among the    deadliest groups of snakes in the world. All the lizards are nonpoisonous."
+        }
+      ]
+    },
+    {
+      "@id": "h40",
+      "@type": "side",
+      "title": {
+        "$": "Native plants."
+      },
+      "p": [
+        [
+{
+  "$": " Two main kinds of native plants, "
+},
+{
+  "i": {
+    "$": "acacias"
+  }
+},
+{
+  "$": " and "
+},
+{
+  "i": {
+    "$": "eucalyptuses,"
+  }
+},
+{
+  "$": "    dominate Australia's landscape. They are the most common shrubs in the dry lands    and the most common trees in the moister areas. Acacias, which Australians call        "
+},
+{
+  "i": {
+    "$": "wattles,"
+  }
+},
+{
+  "$": " bear their seeds in pods. Australia has about 700 species of    acacias. Many of them have brightly colored flowers. Common shrubby species    include the mulga and the myall. The silver wattle and the blackwood are tall    trees."
+}
+        ],
+        {
+"media": {
+  "@id": "pc037210",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Wattle tree"
+  }
+}
+        },
+        [
+{
+  "$": "Eucalyptuses—or "
+},
+{
+  "i": {
+    "$": "eucalypts,"
+  }
+},
+{
+  "$": " as they are known in Australia—are the most    widespread plants in the country. Australia has about 500 species of    eucalyptuses. Most species have narrow, leathery leaves. The leaves contain a    fragrant oil, which gives the plants a noticeable odor. The oil makes the trees    burn spectacularly in bushfires. The oil can heat up and burst into flames even    before the fire reaches the tree."
+}
+        ],
+        {
+"media": {
+  "@id": "pc314000",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Eucalyptus trees"
+  }
+}
+        },
+        [
+{
+  "$": "Scrubby eucalyptuses, which are also known as "
+},
+{
+  "i": {
+    "$": "mallee scrub,"
+  }
+},
+{
+  "$": " cover large    areas of the interior. Eucalyptus trees, which Australians call "
+},
+{
+  "i": {
+    "$": "gum trees"
+  }
+},
+{
+  "$": "    or "
+},
+{
+  "i": {
+    "$": "gums,"
+  }
+},
+{
+  "$": " are the tallest trees in the country and among the tallest in    the world. Two species, the mountain ash and the karri, may grow to about 280    feet (85 meters). Eucalyptuses once grew only in Australia and on a few islands    to the north. However, eucalyptuses now grow in many other warm areas, including    California, Hawaii, Africa, and countries bordering the Mediterranean Sea. See        "
+},
+{
+  "link": {
+    "@id": 186180,
+    "title": {
+      "$": "Eucalyptus"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        {
+"media": {
+  "@id": "pc037157",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Grass tree"
+  }
+}
+        },
+        [
+{
+  "$": "Palms and trees that resemble palms grow in many parts of Australia. Grass trees    are palmlike trees of the western dry lands. They are related to the yucca trees    of the American Southwest. Macrozamia trees grow throughout Australia. They have    palmlike or fernlike leaves and bear cones, as needleleaf trees do. Australia    has few native needleleaf trees, other than kauri pines and bunya pines. Shrubs    called "
+},
+{
+  "i": {
+    "$": "saltbushes"
+  }
+},
+{
+  "$": " are common in the dry grazing areas of southern    Australia. They are so named because their leaves have a salty taste. The leaves    provide excellent feed for livestock."
+}
+        ],
+        {
+"$": "Australia has thousands of wildflowers. Many of them are desert species whose    seeds lie buried until brought to life by a heavy rain. Then, for a few days or    weeks, the desert bursts into bloom with flowers of every color."
+        }
+      ]
+    },
+    {
+      "@id": "h41",
+      "@type": "side",
+      "title": {
+        "$": "Introduced species."
+      },
+      "p": [
+        [
+{
+  "$": " The only mammals that lived in Australia before the first settlers arrived were    bats, echidnas, mice, platypuses, rats, and the various kinds of marsupials. The    first settlers, the Aborigines, brought along a type of dog known as a        "
+},
+{
+  "i": {
+    "$": "dingo."
+  }
+},
+{
+  "$": " Some dingoes escaped into the wild. Today, their descendants    are Australia's chief beasts of prey. European settlers introduced into    Australia many familiar mammals, including cats, cattle, deer, foxes, goats,    hogs, horses, rabbits, and sheep. They also introduced such animals as camels    and water buffaloes, various kinds of birds, and many species of plants."
+}
+        ],
+        {
+"media": {
+  "@id": "pc319485",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Dingo"
+  }
+}
+        },
+        [
+{
+  "$": "Camels, cane toads, water buffaloes, and certain other introduced species have    become wild and are pests. These include some domestic cats that have gone wild    and pose a great risk to native birds and small animals. In some cases, species    have had to be exterminated. Wild rabbits, for example, caused extensive damage    to crops and grazing lands. In the 1950's, Australian officials attempted to    wipe them out with a deliberately introduced disease, myxomatosis. This policy    was successful until the rabbits developed "
+},
+{
+  "i": {
+    "$": "immunity"
+  }
+},
+{
+  "$": " (natural protection    from the disease). In the mid-1990's, scientists released a new virus that has    been more successful in controlling the number of rabbits."
+}
+        ]
+      ]
+    }
+  ]
+},
+{
+  "@id": "h42",
+  "@type": "center",
+  "title": {
+    "$": "Economy"
+  },
+  "p": [
+    {
+      "$": "Australia is one of the world's rich, developed countries. Most developed countrieshave become rich through the production and export of manufactured goods.Australia's wealth, however, has come chiefly from farming and mining."
+    },
+    {
+      "$": "The processing of farm and mineral products makes up a major part of Australia'smanufacturing industry. For many years, manufacturing was the leading employer inAustralia. But during the late 1900's, manufacturing declined in importance, whileservice industries increased in importance."
+    },
+    {
+      "$": "The nation relies on its farms and mines to produce goods for export. By selling farmproducts and minerals abroad, Australia earns the export income that most otherdeveloped countries earn from the sale of manufactured products. However, only partof Australia's export income goes to the farmers and mining companies that producethe goods originally. Much of it goes to firms that process and distribute thegoods. Thus, Australia's agricultural and mineral exports benefit the economy as awhole and enable many Australians to have a high standard of living."
+    },
+    [
+      {
+        "$": "Australia has traditionally been handicapped by a lack of "
+      },
+      {
+        "i": {
+"$": "capital"
+        }
+      },
+      {
+        "$": "—that is,money to finance business and industrial development. As a result, the country hashad to borrow capital from other nations and has become heavily indebted to them.American, British, Japanese, and other foreign investors own or control many miningcompanies, factories, and other businesses in Australia."
+      }
+    ],
+    {
+      "table": {
+        "@id": "ta038420-t04",
+        "title": {
+"$": "Economic production in Australia"
+        }
+      }
+    }
+  ],
+  "section": [
+    {
+      "@id": "h43",
+      "@type": "side",
+      "title": {
+        "$": "Service industries"
+      },
+      "p": [
+        [
+{
+  "$": " provide about three-quarters of Australia's jobs and make up more than    two-thirds of Australia's "
+},
+{
+  "i": {
+    "$": "gross domestic product"
+  }
+},
+{
+  "$": "—the total value of goods    and services produced within the country annually."
+}
+        ],
+        {
+"$": "Community, social, personal, and business services make up the leading service    industry group in terms of both employment and gross domestic product. Trade,    restaurants, and hotels combine to employ about a fourth of Australia's total    workforce. Transportation and communication is also important."
+        },
+        {
+"media": {
+  "@id": "pc315234",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Street scene in Hobart, Tasmania"
+  }
+}
+        }
+      ]
+    },
+    {
+      "@id": "h44",
+      "@type": "side",
+      "title": {
+        "$": "Manufacturing."
+      },
+      "p": [
+        [
+{
+  "$": " Unlike most other developed countries, Australia imports more manufactured goods    than it exports. Australian factories produce many of the "
+},
+{
+  "i": {
+    "$": "consumer goods,"
+  }
+},
+{
+  "$": "    such as processed foods and household articles, that the people require. But the    nation has to import most of its "
+},
+{
+  "i": {
+    "$": "producer goods"
+  }
+},
+{
+  "$": "—that is, factory    machinery, construction equipment, and other goods used in production. Iron and    steel are the chief exceptions. Australia's iron and steel industry produces    enough of the metals to mostly meet the needs of other industries. Australia's    factories depend heavily on foreign capital."
+}
+        ],
+        {
+"$": "Most of Australia's factories specialize in assembly work and light    manufacturing. Many plants process farm products or minerals for export. The    leading manufactured products are processed foods and beverages; machinery;    metals, including iron and steel; petroleum, coal, and chemical products;    printed materials; and transportation equipment. New South Wales and Victoria    are the chief manufacturing states. Together, these two states produce about    two-thirds of the country's manufactured goods and employ about three-fifths of    the factory workers. Most of the factories operate in and around Sydney and    Melbourne. Manufacturing provides about 10 percent of Australia's gross domestic    product and employs about 10 percent of the country's labor force."
+        }
+      ]
+    },
+    {
+      "@id": "h45",
+      "@type": "side",
+      "title": {
+        "$": "Mining."
+      },
+      "p": [
+        {
+"$": " Australia has rich mineral resources. But many of the deposits lie in the dry    areas, far from major settlements. Such deposits are extremely expensive to    mine. Workers must construct roads and railways to the mining sites. Some    settlements have been built near mines so that the miners and their families    have housing. The costs of mining development in Australia are so high that the    mining industry depends heavily on foreign capital. Foreign investors own or    control much of the mining industry. In 1975, the Australian federal government    established a general rule that at least 50 percent of every major new mining    operation in the country should be owned by Australian investors. However, the    government does not strictly enforce this rule if the Australian capital needed    for the mining operation is unavailable."
+        },
+        {
+"media": {
+  "@id": "mp000287",
+  "@rights": "licensed",
+  "@type": "map-atlas",
+  "title": {
+    "$": "Mining and manufacturing in Australia"
+  }
+}
+        },
+        {
+"$": "Australia began to develop its mineral resources during the 1800's. By the end of    the century, it was exporting large amounts of copper, gold, lead, silver, tin,    and zinc. These minerals remained the chief products of the mining industry    until the mid-1900's. During the 1950's, geologists discovered huge deposits of    bauxite, coal, and iron ore in Australia. They discovered manganese, natural    gas, nickel, and petroleum during the 1960's."
+        },
+        {
+"$": "Australia has become one of the world's major mining countries. It ranks first in    the production of bauxite and zirconium, and is a leading producer of coal,    copper, diamonds, gold, iron ore, lead, manganese, nickel, silver, tin, and    zinc. Nearly all the world's high-quality opals are mined in Australia."
+        },
+        {
+"media": {
+  "@id": "pc314001",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Mining in Australia"
+  }
+}
+        },
+        {
+"$": "Western Australia, Queensland, and New South Wales are the leading mining states.    Western Australia produces most of the gold, iron ore, and nickel and all of    Australia's diamonds. Queensland is the chief producer of coal, lead, and    silver. New South Wales mines copper, gold, and zinc. Most of the manganese    comes from the Northern Territory and Western Australia. South Australia mines    copper, gold, and iron ore. Tasmania produces copper, gold, and zinc. Offshore    fields along the northwest coast of Western Australia are Australia's main    source of petroleum. Victoria is also a major petroleum producer. Natural gas is    produced in Victoria and the northwest coastal shelf of Western Australia. The    country is among the world's largest producers of uranium. The richest uranium    deposits lie in the Northern Territory and South Australia."
+        }
+      ]
+    },
+    {
+      "@id": "h46",
+      "@type": "side",
+      "title": {
+        "$": "Agriculture"
+      },
+      "p": [
+        {
+"$": " in Australia is highly mechanized, requiring minimal human labor. Only about 3    percent of the country's workers are farmers. However, they produce nearly all    the food the people need. Agriculture provides only 2 percent of Australia's    gross domestic product."
+        },
+        {
+"media": {
+  "@id": "pc314813",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Sheep grazing, New South Wales"
+  }
+}
+        },
+        {
+"$": "Farmland covers about half of Australia. However, most of this land is dry    grazing land. Farmers grow crops on less than 10 percent of the farmland, but    they use modern agricultural methods to make the cropland highly productive.    They irrigate about 5 percent of the cropland."
+        },
+        {
+"$": "Australia's leading farm products are beef cattle, dairy products, and wheat.    Leading crops include barley, cotton, grapes, potatoes, sugar cane, and    tomatoes. Farmers also raise chickens for both meat and eggs, hogs, and sheep    for both meat and wool. Australia is one of the world's largest producers of    barley, wheat, and wool. Another rapidly growing industry is winemaking.    Australia is one of the world's leading wine-producing nations. All the    Australian states produce wine, but New South Wales and South Australia produce    the best vintages. In regions suitable for growing grapes, winemakers are    turning old farms and orchards into vineyards to produce grapes for wine. "
+        },
+        {
+"$": "Farmers raise sheep and cattle in all the Australian states. New South Wales,    Victoria, and Western Australia together raise about three-fourths of the    country's sheep and produce about three-fourths of its wool. Queensland and New    South Wales raise more than half of Australia's beef cattle. Victoria is the    leading producer of dairy products. Farmers grow wheat in all areas of the    country that have adequate rainfall and climate. But production is heavily    concentrated in New South Wales and Western Australia. Farms on the east coast    of Queensland grow sugar cane, bananas, pineapples, and other crops that need a    wet tropical climate. Such fruit as apples and pears are common in all the    states. New South Wales is the leading orange-producing state."
+        }
+      ]
+    },
+    {
+      "@id": "h47",
+      "@type": "side",
+      "title": {
+        "$": "Forestry and fishing."
+      },
+      "p": [
+        {
+"$": " Forests cover about 20 percent of Australia, mostly in the Eastern Highlands and    moist coastal areas. The northeast coast has tropical rain forests. The vast    majority of Australia's forest trees are eucalyptuses. Industries use the wood    of some eucalyptus species for making paper and such items as floorboards and    furniture. But eucalyptus wood is too hard for most other purposes, including    most types of housing construction. Therefore, tree farms plant imported species    of softwoods. Monterey pines, which originally came from California, have become    one of Australia's most important timber trees."
+        },
+        {
+"media": {
+  "@id": "mp000286",
+  "@rights": "licensed",
+  "@type": "map-atlas",
+  "title": {
+    "$": "Agriculture and fishing in Australia"
+  }
+}
+        },
+        [
+{
+  "$": "Although Australia is surrounded by water, its fishing resources are limited.    Thousands of species of fishes live in the coastal waters, and Australia has    developed a small but profitable fishing industry. The industry earns most of    its income from the catch of shellfish, especially abalones, lobsters, prawns,    and scallops. The fishing fleet also brings in fairly large catches of sardines    and tuna. Australia exports much of the shellfish catch. Divers collect some    pearls from oysters. "
+},
+{
+  "i": {
+    "$": "Aquaculture,"
+  }
+},
+{
+  "$": " the commercial raising of plants and    animals that live in water, is a growing industry in Australia. Australia's    aquaculture industry raises oysters for pearls and for food, as well as salmon    and tuna."
+}
+        ]
+      ]
+    },
+    {
+      "@id": "h48",
+      "@type": "side",
+      "title": {
+        "$": "Tourism."
+      },
+      "p": [
+        {
+"$": " Australia has a variety of tourist attractions. They include wildlife    sanctuaries, sandy beaches, the Great Barrier Reef, the Australian Alps, Uluru,    and numerous points of historical interest. Millions of foreign tourists visit    Australia each year. Tourism aids the economy, especially the service    industries, such as retail trade, restaurants, and hotels."
+        },
+        {
+"media": {
+  "@id": "pc324643",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Melbourne, Australia"
+  }
+}
+        },
+        {
+"$": "Distance and cost have been the major obstacles to growth of Australia's tourist    industry. Australia is about twice as far from North America and Europe as North    America and Europe are from each other, so travel to Australia is costly for    North American and European vacationers. About half of Australia's visitors come    from less distant places, especially New Zealand and other Pacific islands,    Japan, and Southeast Asia. These places are also the ones most visited by    Australians, although many Australians also visit Europe and North America."
+        }
+      ]
+    },
+    {
+      "@id": "h49",
+      "@type": "side",
+      "title": {
+        "$": "International trade."
+      },
+      "p": {
+        "$": " Farm products, minerals, and other raw materials are important to the nation's    economy. Important exports include alumina, beef, coal, iron ore, petroleum    products, wheat, and wool. Australia mainly imports manufactured goods.    Electrical appliances, industrial machinery, office equipment, petroleum    products, and telecommunications equipment are the leading import products.    China and Japan are Australia's leading trade partners. Other important trade    partners include Germany, New Zealand, South Korea, the United Kingdom, and the    United States."
+      }
+    },
+    {
+      "@id": "h50",
+      "@type": "side",
+      "title": {
+        "$": "Transportation."
+      },
+      "p": [
+        {
+"$": " Automobiles are the chief means of passenger transportation in Australia. Nearly    every family owns a car and uses it for most local travel. Paved roads link the    state capitals and the largest inland cities. Many roads in the outback are    unpaved."
+        },
+        [
+{
+  "$": "Adelaide, Brisbane, Cairns, Darwin, Melbourne, Perth, and Sydney have large    international airports. Air transportation is particularly important in the    outback. A private, nonprofit organization called the Royal Flying Doctor    Service of Australia flies emergency medical help to many outback areas. The    government of the Northern Territory provides aerial medical services to the    northern part of the territory. See "
+},
+{
+  "link": {
+    "@id": 724566,
+    "title": {
+      "$": "Royal Flying Doctor Service of Australia"
+    }
+  }
+},
+{
+  "$": "."
+}
+        ],
+        {
+"media": {
+  "@id": "pc314002",
+  "@rights": "licensed",
+  "@type": "photo",
+  "title": {
+    "$": "Royal Flying Doctor Service of Australia"
+  }
+}
+        },
+        {
+"$": "Trucks, railroads, and ships haul most of Australia's intercity freight. The    trucking industry is mainly privately owned. Australia's main-line railroads    were all publicly owned until the late 1900's, but many are now privately owned.    Rail lines link Darwin, Kalgoorlie, Melbourne, Sydney, and many other cities.    The main-line railroads chiefly haul farm goods and minerals from the producing    areas to the coastal cities and ports. In addition to the main rail lines,    Australia has several small private railroads. These lines largely haul minerals    from out-of-the-way mines to the main-line railroads. Sydney and Melbourne have    extensive commuter rail systems."
+        },
+        {
+"$": "Ships carry large amounts of minerals between Australian coastal ports, and they    haul nearly all the country's overseas freight. However, Australia has only a    small merchant fleet. Foreign vessels carry most of the nation's intercoastal    freight and almost all its overseas cargo. The busiest eastern ports include    Brisbane, Gladstone, Hay Point, Melbourne, Newcastle, and Sydney. Dampier,    Fremantle, and Port Hedland are among the busiest ports in Western Australia.    Adelaide also has a large port."
+        }
+      ]
+    },
+    {
+      "@id": "h51",
+      "@type": "side",
+      "title": {
+        "$": "Communication."
+      },
+      "p": [
+        [
+{
+  "$": " Australia's postal and telephone systems are part or fully owned by the federal    government and operated by independent government agencies (see "
+},
+{
+
+  "link": {
+    "@id": 741379,
+    "title": {
+      "$": "Overland Telegraph"
+    }
+  }
+},
+{
+  "$": "). The Australian Postal Corporation runs the postal system. The    telephone system was fully government owned until the 1990's. However, the    telecommunications industry now operates in a fully competitive market. Telstra,    a partially government-owned company, is the biggest operator. Except in the    outback, nearly every Australian household has a telephone. In the remotest    parts of the outback, many people use two-way radios in place of telephones. The    Internet has also become a crucial means of communication in outback    Australia."
+}
+        ],
+        {
+"$": "Almost all Australian families own one or more television sets and radios.    Commercial broadcasters own and operate many radio stations and free TV    stations. Almost all the rest are owned and financed by the federal government    and operated by the Australian Broadcasting Corporation (ABC), an independent    government agency. "
+        },
+        {
+"$": "Almost all cable and satellite TV is privately owned. The Special Broadcasting    Service (SBS) is a public broadcaster that receives most of its funding from the    federal government. It provides radio, television, and online services in dozens    of languages."
+        },
+        {
+"$": "Australia has experienced rapid expansion of new electronic and    telecommunications technologies, in industry, government, education, and private    household use. More than 50 percent of Australian homes have computer and    Internet service."
+        },
+        [
+{
+  "$": "Australia has dozens of daily newspapers, all privately owned. The most widely    read daily newspapers include the "
+},
+{
+  "i": {
+    "$": "Herald Sun"
+  }
+},
+{
+  "$": " and "
+},
+{
+  "i": {
+    "$": "The Age"
+  }
+},
+{
+  "$": " in    Melbourne, and "
+},
+{
+  "i": {
+    "$": "The Sydney Morning Herald"
+  }
+},
+{
+  "$": " and "
+},
+{
+  "i": {
+    "$": "The Daily Telegraph"
+  }
+},
+{
+  "$": "    in Sydney. "
+},
+{
+  "i": {
+    "$": "The Advertiser "
+  }
+},
+{
+  "$": " of Adelaide, "
+},
+{
+  "i": {
+    "$": "The Courier-Mail "
+  }
+},
+{
+  "$": " of    Brisbane, and "
+},
+{
+  "i": {
+    "$": "The West Australian"
+  }
+},
+{
+  "$": " of Perth are also important daily    newspapers. A national daily, "
+},
+{
+  "i": {
+    "$": "The Australian,"
+  }
+},
+{
+  "$": " is published in Adelaide,    Brisbane, Hobart, Melbourne, Perth, and Sydney. There are also many    foreign-language newspapers published in Australia's cities."
+}
+        ]
+      ]
+    }
+  ]
+}
+        ]
+      },
+      "study-aids": {
+        "media": {
+"@id": "pc315049",
+"@rights": "licensed",
+"@type": "photo",
+"title": {
+  "$": "Sydney Harbour"
+}
+        },
+        "related-links": {
+"related-links-head": {
+  "$": "Related articles"
+},
+"p": {
+  "$": " in World Book."
+},
+"related-links-subhead": {
+  "$": "Other related articles"
+},
+"link": [
+  {
+    "@id": 751036,
+    "title": {
+      "$": "Aboriginal people of Australia"
+    }
+  },
+  {
+    "@id": 548025,
+    "title": {
+      "$": "Aboriginal people of Tasmania"
+    }
+  },
+  {
+    "@id": 726940,
+    "title": {
+      "$": "Adelaide Festival"
+    }
+  },
+  {
+    "@id": "004960",
+    "title": {
+      "$": "Admiralty Islands"
+    }
+  },
+  {
+    "@id": "007700",
+    "title": {
+      "$": "Agricultural education"
+    }
+  },
+  {
+    "@id": "008420",
+    "title": {
+      "$": "Ainu"
+    }
+  },
+  {
+    "@id": 754393,
+    "title": {
+      "$": "Anglican Church of Australia"
+    }
+  },
+  {
+    "@id": 724179,
+    "title": {
+      "$": "ANZAC"
+    }
+  },
+  {
+    "@id": 753889,
+    "title": {
+      "$": "Anzac Day"
+    }
+  },
+  {
+    "@id": 727563,
+    "title": {
+      "$": "Anzac Memorial"
+    }
+  },
+  {
+    "@id": 724180,
+    "title": {
+      "$": "ANZUS"
+    }
+  },
+  {
+    "@id": 727661,
+    "title": {
+      "$": "Archibald Memorial Fountain"
+    }
+  },
+  {
+    "@id": 727662,
+    "title": {
+      "$": "Archibald Prize"
+    }
+  },
+  {
+    "@id": 724191,
+    "title": {
+      "$": "Arnhem Land"
+    }
+  },
+  {
+    "@id": 724211,
+    "title": {
+      "$": "Australia Day"
+    }
+  },
+  {
+    "@id": 755188,
+    "title": {
+      "$": "Australia flag"
+    }
+  },
+  {
+    "@id": 728010,
+    "title": {
+      "$": "Australian and New Zealand Association for the Advancement of Science (ANZAAS)"
+    }
+  },
+  {
+    "@id": 728011,
+    "title": {
+      "$": "Australian Broadcasting Corporation (ABC)"
+    }
+  },
+  {
+    "@id": "038410",
+    "title": {
+      "$": "Australian Defence Force (ADF)"
+    }
+  },
+  {
+    "@id": 728018,
+    "title": {
+      "$": "Australian Imperial Force (AIF)"
+    }
+  },
+  {
+    "@id": "038531",
+    "title": {
+      "$": "Australian Inland Mission"
+    }
+  },
+  {
+    "@id": "038535",
+    "title": {
+      "$": "Australian Labor Party (ALP)"
+    }
+  },
+  {
+    "@id": 728022,
+    "title": {
+      "$": "Australian Loan Council"
+    }
+  },
+  {
+    "@id": "038557",
+    "title": {
+      "$": "Australian Security Intelligence Organisation (ASIO)"
+    }
+  },
+  {
+    "@id": "044980",
+    "title": {
+      "$": "Bank"
+    },
+    "link-subhead": {
+      "@id": "h42",
+      "$": "Australia and New Zealand"
+    }
+  },
+  {
+    "@id": "046755",
+    "title": {
+      "$": "Bark painting"
+    }
+  },
+  {
+    "@id": "049170",
+    "title": {
+      "$": "Batavia"
+    }
+  },
+  {
+    "@id": "050180",
+    "title": {
+      "$": "Bauxite"
+    }
+  },
+  {
+    "@id": 724330,
+    "title": {
+      "$": "BHP Billiton"
+    }
+  },
+  {
+    "@id": "061520",
+    "title": {
+      "$": "Bismarck Archipelago"
+    }
+  },
+  {
+    "@id": "063090",
+    "title": {
+      "$": "Blackbirders"
+    }
+  },
+  {
+    "@id": "070000",
+    "title": {
+      "$": "Boomerang"
+    }
+  },
+  {
+    "@id": 751344,
+    "title": {
+      "$": "Bora ground"
+    }
+  },
+  {
+    "@id": 724344,
+    "title": {
+      "$": "Bull roarer"
+    }
+  },
+  {
+    "@id": "082795",
+    "title": {
+      "$": "Bunya ceremony"
+    }
+  },
+  {
+    "@id": "083020",
+    "title": {
+      "$": "Burdekin River Irrigation Project"
+    }
+  },
+  {
+    "@id": 755388,
+    "title": {
+      "$": "Bushfires in Australia"
+    }
+  },
+  {
+    "@id": 724350,
+    "title": {
+      "$": "Bushrangers"
+    }
+  },
+  {
+    "@id": 730071,
+    "title": {
+      "$": "Camp Cove"
+    }
+  },
+  {
+    "@id": 724384,
+    "title": {
+      "$": "Castle Hill Rising"
+    }
+  },
+  {
+    "@id": 724391,
+    "title": {
+      "$": "Chamberlain case"
+    }
+  },
+  {
+    "@id": 120780,
+    "title": {
+      "$": "Cobalt"
+    }
+  },
+  {
+    "@id": 123920,
+    "title": {
+      "$": "Colombo Plan"
+    }
+  },
+  {
+    "@id": 731802,
+    "title": {
+      "$": "Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+    }
+  },
+  {
+    "@id": 130340,
+    "title": {
+      "$": "Conservation"
+    },
+    "link-subhead": {
+      "@id": "h26",
+      "$": "Australia"
+    }
+  },
+  {
+    "@id": "038515",
+    "title": {
+      "$": "Constitution of Australia"
+    }
+  },
+  {
+    "@id": 132010,
+    "title": {
+      "$": "Convicts in Australia"
+    }
+  },
+  {
+    "@id": 132180,
+    "title": {
+      "$": "Cook, James"
+    }
+  },
+  {
+    "@id": 135520,
+    "title": {
+      "$": "Corroboree"
+    }
+  },
+  {
+    "@id": 148530,
+    "title": {
+      "$": "Dartmouth Dam"
+    }
+  },
+  {
+    "@id": 163100,
+    "title": {
+      "$": "Dollar"
+    }
+  },
+  {
+    "@id": 724498,
+    "title": {
+      "$": "Didgeridoo"
+    }
+  },
+  {
+    "@id": 167580,
+    "title": {
+      "$": "Dryland farming"
+    }
+  },
+  {
+    "@id": 169635,
+    "title": {
+      "$": "Duntroon"
+    }
+  },
+  {
+    "@id": 175300,
+    "title": {
+      "$": "Eildon Dam"
+    }
+  },
+  {
+    "@id": 178511,
+    "title": {
+      "$": "Elizabeth Farm House"
+    }
+  },
+  {
+    "@id": 184105,
+    "title": {
+      "$": "Ern Malley"
+    }
+  },
+  {
+    "@id": 186580,
+    "title": {
+      "$": "Eureka Stockade"
+    }
+  },
+  {
+    "@id": 188760,
+    "title": {
+      "$": "Exploration"
+    },
+    "link-subhead": [
+      {
+        "@id": "h24",
+        "$": "Exploring the Pacific"
+      },
+      {
+        "@id": "h25",
+        "$": "Exploring Australia's interior"
+      }
+    ]
+  },
+  {
+    "@id": 190230,
+    "title": {
+      "$": "Fairfax"
+    }
+  },
+  {
+    "@id": 733542,
+    "title": {
+      "$": "Federation of Australia"
+    }
+  },
+  {
+    "@id": 724556,
+    "title": {
+      "$": "First Fleet"
+    }
+  },
+  {
+    "@id": 198630,
+    "title": {
+      "$": "Fisher's ghost"
+    }
+  },
+  {
+    "@id": 724568,
+    "title": {
+      "$": "Fort Denison"
+    }
+  },
+  {
+    "@id": 207650,
+    "title": {
+      "$": "Foundation Day"
+    }
+  },
+  {
+    "@id": 724576,
+    "title": {
+      "$": "Free settlers"
+    }
+  },
+  {
+    "@id": 754368,
+    "title": {
+      "$": "Giant wombat"
+    }
+  },
+  {
+    "@id": 724606,
+    "title": {
+      "$": "Gippsland"
+    }
+  },
+  {
+    "@id": 734634,
+    "title": {
+      "$": "Glenbawn Dam"
+    }
+  },
+  {
+    "@id": 229950,
+    "title": {
+      "$": "Gordon River Dam"
+    }
+  },
+  {
+    "@id": 234080,
+    "title": {
+      "$": "Great Depression"
+    },
+    "link-subhead": {
+      "@id": "h22",
+      "$": "Effects in Australia"
+    }
+  },
+  {
+    "@id": 235465,
+    "title": {
+      "$": "Green party"
+    }
+  },
+  {
+    "@id": 251141,
+    "title": {
+      "$": "Heidelberg School"
+    }
+  },
+  {
+    "@id": 726440,
+    "title": {
+      "$": "Highland Clearances"
+    }
+  },
+  {
+    "@id": 735996,
+    "title": {
+      "$": "Holey dollar"
+    }
+  },
+  {
+    "@id": 273120,
+    "title": {
+      "$": "Immigration"
+    },
+    "link-subhead": {
+      "@id": "h12",
+      "$": "Australia and New Zealand"
+    }
+  },
+  {
+    "@id": 755484,
+    "title": {
+      "$": "Indigenous people of Australia"
+    }
+  },
+  {
+    "@id": 737208,
+    "title": {
+      "$": "Kakadu National Park"
+    }
+  },
+  {
+    "@id": 748909,
+    "title": {
+      "$": "Lake Mungo archaeological site"
+    }
+  },
+  {
+    "@id": 738270,
+    "title": {
+      "$": "Liberal Party"
+    }
+  },
+  {
+    "@id": 738966,
+    "title": {
+      "$": "Mallee"
+    }
+  },
+  {
+    "@id": 749544,
+    "title": {
+      "$": "Man from Snowy River, The"
+    }
+  },
+  {
+    "@id": 739095,
+    "title": {
+      "$": "Maralinga"
+    }
+  },
+  {
+    "@id": 739144,
+    "title": {
+      "$": "Maritime Strike"
+    }
+  },
+  {
+    "@id": 739871,
+    "title": {
+      "$": "Mitchell Library"
+    }
+  },
+  {
+    "@id": 740368,
+    "title": {
+      "$": "Murchison"
+    }
+  },
+  {
+    "@id": 755184,
+    "title": {
+      "$": "Myall Creek Massacre"
+    }
+  },
+  {
+    "@id": 383291,
+    "title": {
+      "$": "National park"
+    },
+    "link-subhead": {
+      "@id": "h3",
+      "$": "Australia"
+    }
+  },
+  {
+    "@id": 386000,
+    "title": {
+      "$": "Negritos"
+    }
+  },
+  {
+    "@id": 740708,
+    "title": {
+      "$": "New England"
+    }
+  },
+  {
+    "@id": 740716,
+    "title": {
+      "$": "New Holland"
+    }
+  },
+  {
+    "@id": 740728,
+    "title": {
+      "$": "New South Wales Corps"
+    }
+  },
+  {
+    "@id": 740931,
+    "title": {
+      "$": "Northern development in Australia"
+    }
+  },
+  {
+    "@id": 740983,
+    "title": {
+      "$": "Nulla nulla"
+    }
+  },
+  {
+    "@id": 750181,
+    "title": {
+      "$": "Outback"
+    }
+  },
+  {
+    "@id": 741379,
+    "title": {
+      "$": "Overland Telegraph"
+    }
+  },
+  {
+    "@id": 415440,
+    "title": {
+      "$": "Parliament"
+    }
+  },
+  {
+    "@id": 425750,
+    "title": {
+      "$": "Petrov Affair"
+    }
+  },
+  {
+    "@id": 742111,
+    "title": {
+      "$": "Pilbara"
+    }
+  },
+  {
+    "@id": 742188,
+    "title": {
+      "$": "Pitjantjatjara"
+    }
+  },
+  {
+    "@id": 436510,
+    "title": {
+      "$": "Pointing the bone"
+    }
+  },
+  {
+    "@id": 444250,
+    "title": {
+      "$": "Preferential voting"
+    }
+  },
+  {
+    "@id": 446930,
+    "title": {
+      "$": "Proclamation Day"
+    }
+  },
+  {
+    "@id": 465870,
+    "title": {
+      "$": "Responsible government"
+    }
+  },
+  {
+    "@id": 743273,
+    "title": {
+      "$": "Returned & Services League of Australia"
+    }
+  },
+  {
+    "@id": 743436,
+    "title": {
+      "$": "Riverina"
+    }
+  },
+  {
+    "@id": 743694,
+    "title": {
+      "$": "Royal Australian Mint"
+    }
+  },
+  {
+    "@id": 724566,
+    "title": {
+      "$": "Royal Flying Doctor Service of Australia"
+    }
+  },
+  {
+    "@id": 478615,
+    "title": {
+      "$": "Rum Rebellion"
+    }
+  },
+  {
+    "@id": 482280,
+    "title": {
+      "$": "Saint Andrew's Cathedral"
+    }
+  },
+  {
+    "@id": 500320,
+    "title": {
+      "$": "Selection acts"
+    }
+  },
+  {
+    "@id": 725126,
+    "title": {
+      "$": "Snowy Mountains Scheme"
+    }
+  },
+  {
+    "@id": 517170,
+    "title": {
+      "$": "Soap opera"
+    }
+  },
+  {
+    "@id": 745275,
+    "title": {
+      "$": "Squatters in Australia"
+    }
+  },
+  {
+    "@id": 750182,
+    "title": {
+      "$": "Stolen Generation"
+    }
+  },
+  {
+    "@id": 745675,
+    "title": {
+      "$": "Sunshine Coast"
+    }
+  },
+  {
+    "@id": 725163,
+    "title": {
+      "$": "Swagman"
+    }
+  },
+  {
+    "@id": 749554,
+    "title": {
+      "$": "Sweet Silence After Bells"
+    }
+  },
+  {
+    "@id": 725167,
+    "title": {
+      "$": "Sydney Harbour Bridge"
+    }
+  },
+  {
+    "@id": 725168,
+    "title": {
+      "$": "Sydney Opera House"
+    }
+  },
+  {
+    "@id": 749557,
+    "title": {
+      "$": "Teams, The"
+    }
+  },
+  {
+    "@id": 549980,
+    "title": {
+      "$": "Television"
+    },
+    "link-subhead": {
+      "@id": "h49",
+      "$": "In Australia and New Zealand"
+    }
+  },
+  {
+    "@id": 754379,
+    "title": {
+      "$": "Thunder bird"
+    }
+  },
+  {
+    "@id": 755483,
+    "title": {
+      "$": "Torres Strait Islanders"
+    }
+  },
+  {
+    "@id": 746600,
+    "title": {
+      "$": "Transportation of convicts"
+    }
+  },
+  {
+    "@id": 573300,
+    "title": {
+      "$": "Ubar"
+    }
+  },
+  {
+    "@id": 726201,
+    "title": {
+      "$": "Vegemite"
+    }
+  },
+  {
+    "@id": 588880,
+    "title": {
+      "$": "Voyager"
+    }
+  },
+  {
+    "@id": 725286,
+    "title": {
+      "$": "Waltzing Matilda"
+    }
+  },
+  {
+    "@id": 747493,
+    "title": {
+      "$": "Warragamba Dam"
+    }
+  },
+  {
+    "@id": 595450,
+    "title": {
+      "$": "Wattle Day"
+    }
+  },
+  {
+    "@id": 725311,
+    "title": {
+      "$": "White Australia policy"
+    }
+  },
+  {
+    "@id": 725323,
+    "title": {
+      "$": "Wilsons Promontory"
+    }
+  },
+  {
+    "@id": 747991,
+    "title": {
+      "$": "Wimmera"
+    }
+  },
+  {
+    "@id": 608340,
+    "title": {
+      "$": "Woman suffrage"
+    },
+    "link-subhead": {
+      "@id": "h8",
+      "$": "Australia"
+    }
+  },
+  {
+    "@id": 610330,
+    "title": {
+      "$": "World Heritage List"
+    }
+  },
+  {
+    "@id": 748213,
+    "title": {
+      "$": "Wyangala Dam"
+    }
+  }
+],
+"related-links-subsubhead": {
+  "$": "Other natural features"
+}
+        },
+        "additional-resources": {
+"additional-resources-subhead": {
+  "$": "Level II"
+},
+"biblio-ref": [
+  [
+    {
+      "bib-author": {
+        "$": "Docherty, James C."
+      }
+    },
+    {
+      "bib-title": {
+        "$": "Historical Dictionary of Australia."
+      }
+    },
+    {
+      "$": " 3rd ed. Scarecrow, 2007."
+    }
+  ],
+  [
+    {
+      "bib-author": {
+        "$": "Keneally, Thomas."
+      }
+    },
+    {
+      "bib-title": {
+        "$": "Australians."
+      }
+    },
+    {
+      "$": " Allen & Unwin, 2009- . Multivolume work."
+    }
+  ],
+  [
+    {
+      "bib-author": {
+        "$": "Macintyre, Stuart."
+      }
+    },
+    {
+      "bib-title": {
+        "$": "A Concise History of Australia."
+      }
+    },
+    {
+      "$": " 3rd ed. Cambridge, 2009."
+    }
+  ],
+  [
+    {
+      "bib-author": {
+        "$": "Welsh, Frank."
+      }
+    },
+    {
+      "bib-title": {
+        "$": "Australia."
+      }
+    },
+    {
+      "$": " Overlook, 2006."
+    }
+  ],
+  [
+    {
+      "bib-author": {
+        "$": "West, Barbara A., and Murphy, F. T."
+      }
+    },
+    {
+      "bib-title": {
+        "$": "A Brief History of Australia."
+      }
+    },
+    {
+      "$": " Facts on File, 2010."
+    }
+  ]
+]
+        }
+      }
+    }
+}
